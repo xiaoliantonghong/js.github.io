@@ -68,7 +68,7 @@ class App extends React.Component {
       }}>
         <div style={{
           color: '#FFFFFF',
-		  background: 'url(/js/loading.gif)',
+		  background: 'url(https://xiaoliantonghong.github.io/yqlj/loading.gif)',
 		  width: '160px',
 		  margin: '0 auto',
           margintop: '20px'
