@@ -1,24 +1,11 @@
-(function createScript() {
-  const head = document.getElementsByTagName('head')[0];
-  const script = document.createElement('script');
-  script.setAttribute('src', 'https://re2js.github.io/dore.js');
-  script.setAttribute('crossorigin', 'anonymous');
-  head.appendChild(script);
-})();
-
 const urls = [
   'https://www.500dh2.shop',
   'https://www.500dh1.shop',
-  'https://www.500dh2.shop',
-];
-
-const newUrls = [
-  '500dh.fun',
-  '500dh.org',
 ];
 
 
-const delaySeconds = 2;
+
+const delaySeconds = 1;
 
 class App extends React.Component {
   urlSuffix = '';
@@ -91,5 +78,3 @@ class App extends React.Component {
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
-
-
