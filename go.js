@@ -1,6 +1,6 @@
 const urls = [
-  'https://www.500dh2.shop',
-  'https://www.500dh1.shop',
+  'https://dh-3.top',
+  'https://dh-4.top',
 ];
 
 
