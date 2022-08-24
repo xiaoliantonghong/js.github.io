@@ -1,6 +1,7 @@
 const urls = [
-  'https://dh-3.top',
-  'https://dh-4.top',
+  'https://wbdh.top',
+  'https://wb2.top',
+  'https://wb7.top',
 ];
 
 
