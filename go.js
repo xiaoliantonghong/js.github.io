@@ -1,7 +1,7 @@
 const urls = [
-  'https://wbdh.top',
-  'https://wb2.top',
-  'https://wb7.top',
+  'https://wb10.top',
+  'https://wb15.top',
+  'https://wb16.top',
 ];
 
 
