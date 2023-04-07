@@ -5,7 +5,6 @@ const urls = [
 ];
 
 
-
 const delaySeconds = 1;
 
 class App extends React.Component {
